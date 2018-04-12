@@ -1,0 +1,6 @@
+framework module Pods_API_StructureSampleTests {
+  umbrella header "Pods-API_StructureSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
